@@ -1,0 +1,17 @@
+{
+  "name": "all4site-fontawesome",
+  "authors": [
+    "All4site <all4sitecomua@gmail.com>"
+  ],
+  "description": "Обновленная подборка шрифтов",
+  "main": "dist/css/fontawesome-all.css",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

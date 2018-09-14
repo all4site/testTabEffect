@@ -1,0 +1,21 @@
+{
+  "name": "all4site-normalize",
+  "authors": [
+    "All4site <all4sitecomua@gmail.com>"
+  ],
+  "description": "Нормализации css",
+  "main": "normalize.css",
+  "license": "MIT",
+  "homepage": "http://all4site.com.ua",
+   "keywords": [
+    "css",
+    "normalize"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

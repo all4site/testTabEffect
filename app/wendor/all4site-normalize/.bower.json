@@ -1,0 +1,32 @@
+{
+  "name": "all4site-normalize",
+  "authors": [
+    "All4site <all4sitecomua@gmail.com>"
+  ],
+  "description": "Нормализации css",
+  "main": "normalize.css",
+  "license": "MIT",
+  "homepage": "http://all4site.com.ua",
+  "keywords": [
+    "css",
+    "normalize"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "e5c4c91713fcb77f9a91fa402bc8febb3b43644a"
+  },
+  "_source": "https://github.com/all4site/all4site-normalize.git",
+  "_target": "^0.0.1",
+  "_originalSource": "all4site-normalize",
+  "_direct": true
+}

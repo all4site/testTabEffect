@@ -1,0 +1,28 @@
+{
+  "name": "all4site-fontawesome",
+  "authors": [
+    "All4site <all4sitecomua@gmail.com>"
+  ],
+  "description": "Обновленная подборка шрифтов",
+  "main": "dist/css/fontawesome-all.css",
+  "license": "MIT",
+  "homepage": "https://github.com/all4site/all4site-fontawesome",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "f14fe672d0c00e1c391eeb698020240a28bf0c3c"
+  },
+  "_source": "https://github.com/all4site/all4site-fontawesome.git",
+  "_target": "^0.0.1",
+  "_originalSource": "all4site-fontawesome",
+  "_direct": true
+}
